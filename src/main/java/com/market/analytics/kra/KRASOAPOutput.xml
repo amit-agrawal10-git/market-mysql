@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header/><SOAP-ENV:Body><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference Id="Reference_1" Type="http://www.w3.org/2000/09/xmldsig#Object" URI="#Object_1"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>VzytpN/hTLY175zvHXDdr/Wy3YYYphKt3Q6odDLtmsTW1Wj4dulfhxTYHefphlxUTXlsWYXyN2yM
+rU4kyIT5Wg==</DigestValue></Reference></SignedInfo><SignatureValue Id="SignatureValue_1">VQpBSfm+zp9YLbRwP8hHuYxxcCnKhkF6sWK1REXoXKxQFsJkb9Smh7GJphEGqwc6G3mqSfXsHYlE
+MoWh8aoyGskBlkAzhAhDIz576l0l4DX52yOWYuX3Drj2ycjOpyd+suWLaHoMljrCewk0BW/t8rM3
+s4jvLRhQko457aN0uwVkOvnAQDmn+KUXZGI5ipbDp6hRBWqn1XXnSQ/Ni1JvhhGI0Oe9Kkp5X5/U
+rkjzU2hILWJwoc/VFMc98+kXCkmCFGuLVjKsj2fSk/bfxSYGQlL7h1ssCGWT9Sqj7F8Oxt/uqjNZ
+zgoBKVuc1+1YIc1FFPTOjXI0po1U+qJHXCEuLQ==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>kAGK/UqYK5z7MUjLPUariYOY47IKELGMGZn9hv9BRMfcWWCWG83pgIvAXz/R5Ws0RmZPOW4lpFZr
+CLLcmBpG8tanlFajlQh9YhYVLvhwdijgVtgla5y8PBG5fdiF+mVlDFLX24iz7Oh2bLqT52Zxyk8b
+uM9G2rZUY4gaWT+zCuqJiHxbjKGLprnLZ7giTw9rYc7HxdkhsDiZx4qO53utuijKfEgSPOTmG0NB
+fB5f7nfgjCuHqt81ZOueG2lknjxJWxUCsjrzZHtKCgUB+Q4LBFIDdg1E+8m2Pcw4JEP1VB/Cb2En
+SgYa+tKgIWVwDPjKWkmHvAQ4NGu/oGMj/1JzmQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIDtzCCAp+gAwIBAgIESgry0DANBgkqhkiG9w0BAQsFADB2MQswCQYDVQQGEwJTQTERMA8GA1UE
+CBMITXkgU3RhdGUxEDAOBgNVBAcTB015IENpdHkxEzARBgNVBAoTCk15IENvbXBhbnkxEDAOBgNV
+BAsTB015IFRlYW0xGzAZBgNVBAMTEk15IFNTTCBDZXJ0aWZpY2F0ZTAgFw0yMDEwMDcxMTEyMDha
+GA8yMjk0MDcyMjExMTIwOFowdjELMAkGA1UEBhMCU0ExETAPBgNVBAgTCE15IFN0YXRlMRAwDgYD
+VQQHEwdNeSBDaXR5MRMwEQYDVQQKEwpNeSBDb21wYW55MRAwDgYDVQQLEwdNeSBUZWFtMRswGQYD
+VQQDExJNeSBTU0wgQ2VydGlmaWNhdGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCQ
+AYr9SpgrnPsxSMs9RquJg5jjsgoQsYwZmf2G/0FEx9xZYJYbzemAi8BfP9HlazRGZk85biWkVmsI
+styYGkby1qeUVqOVCH1iFhUu+HB2KOBW2CVrnLw8Ebl92IX6ZWUMUtfbiLPs6HZsupPnZnHKTxu4
+z0batlRjiBpZP7MK6omIfFuMoYumuctnuCJPD2thzsfF2SGwOJnHio7ne626KMp8SBI85OYbQ0F8
+Hl/ud+CMK4eq3zVk654baWSePElbFQKyOvNke0oKBQH5DgsEUgN2DUT7ybY9zDgkQ/VUH8JvYSdK
+Bhr60qAhZXAM+MpaSYe8BDg0a7+gYyP/UnOZAgMBAAGjSzBJMCgGA1UdEQQhMB+CDG15ZG9tYWlu
+LmNvbYIJbG9jYWxob3N0hwR/AAABMB0GA1UdDgQWBBSIHosGV5pzXuyhzLJl+XR0YLOLrzANBgkq
+hkiG9w0BAQsFAAOCAQEAc2sgSzzr1tAWuP8PbZmCP1x2QZGGlcCQqfXdU2AnfeSxccx2ushcLDWg
+XEWUrlac60FlbmVwecAwNRd04HvKLZ99aqPkB3aZcWSQNpi8ifMLesYzWx5m8eQer/p4peoXdb97
+XSze7tO8WGdU4u/W814xI7MsTt3H/KvbTQSR7madq781lssoJqXPzAT8wY0YhyEVZXN92PbkLbn7
+VJDwo1F2DoLclC4PE0Mis58gP6dZGW9UWxgUB/RAyFjRgZ6GpmxwgCrIVChLFgF2Rb2gxBkKNKTR
+rZ6HwiEomX4UdS96pfWVnSrEm5LA4kfhMJNaag1aZXq4odNpS2Id4qqxlQ==</X509Certificate></X509Data></KeyInfo><Object Id="Object_1"><messagebody><message_type>1</message_type><provider_1>900</provider_1><provider_2>916</provider_2><provider_3>900</provider_3><startr>12054030</startr><stopr>12054030</stopr><validd>2018-10-10 20:00:00</validd><tr_id>TR_1538959634859</tr_id><user_dn>O=Nemzeti Media- es Hirkozlesi Hatosag, C=HU</user_dn><equip>090</equip></messagebody></Object></Signature></SOAP-ENV:Body></SOAP-ENV:Envelope>
